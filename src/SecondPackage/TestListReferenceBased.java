@@ -45,7 +45,7 @@ public class TestListReferenceBased {
         list.add(2, "Banana");
         list.add(3, "Orange");
 
-        displayList(list);
+        list.displayList();
         System.out.println("List size: " + list.size());
         System.out.println("");
 
@@ -54,7 +54,7 @@ public class TestListReferenceBased {
 
         list.add(1, "Mango");
 
-        displayList(list);
+        list.displayList();
         System.out.println("");
 
         // Test get()
@@ -70,7 +70,7 @@ public class TestListReferenceBased {
 
         list.remove(3);
 
-        displayList(list);
+        list.displayList();
         System.out.println("");
 
         // Test removeAll()
@@ -78,7 +78,7 @@ public class TestListReferenceBased {
 
         list.removeAll();
 
-        displayList(list);
+        list.displayList();
         System.out.println("");
 
         // Test isEmpty() after removeAll()
