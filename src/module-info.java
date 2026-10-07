@@ -1,12 +1,2 @@
-
-/**
- * 
- */
-
-/**
- * 
- */
-
-module lab2 {
-
+module LabWork {
 }
