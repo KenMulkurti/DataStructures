@@ -1,8 +1,12 @@
+
 /**
  * 
  */
+
 /**
  * 
  */
-module LabWork {
+
+module lab2 {
+
 }
